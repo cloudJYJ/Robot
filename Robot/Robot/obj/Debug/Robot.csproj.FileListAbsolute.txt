@@ -1,0 +1,14 @@
+D:\works\c#\Robot\Robot\bin\Debug\Robot.exe.config
+D:\works\c#\Robot\Robot\bin\Debug\Robot.exe
+D:\works\c#\Robot\Robot\bin\Debug\Robot.pdb
+D:\works\c#\Robot\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+D:\works\c#\Robot\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+D:\works\c#\Robot\Robot\obj\Debug\Robot.exe
+D:\works\c#\Robot\Robot\obj\Debug\Robot.pdb
+C:\Users\ENJOYSOFT\Documents\카카오톡 받은 파일\Robot\Robot\bin\Debug\Robot.exe.config
+C:\Users\ENJOYSOFT\Documents\카카오톡 받은 파일\Robot\Robot\bin\Debug\Robot.exe
+C:\Users\ENJOYSOFT\Documents\카카오톡 받은 파일\Robot\Robot\bin\Debug\Robot.pdb
+C:\Users\ENJOYSOFT\Documents\카카오톡 받은 파일\Robot\Robot\obj\Debug\Robot.csprojAssemblyReference.cache
+C:\Users\ENJOYSOFT\Documents\카카오톡 받은 파일\Robot\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\ENJOYSOFT\Documents\카카오톡 받은 파일\Robot\Robot\obj\Debug\Robot.exe
+C:\Users\ENJOYSOFT\Documents\카카오톡 받은 파일\Robot\Robot\obj\Debug\Robot.pdb
